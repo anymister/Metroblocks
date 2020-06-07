@@ -1,6 +1,5 @@
 # Metroblocks
 
-Intro:
 
 Ce projet a pour objectif la création d’un jeu vidéo en 2D dont le but est de faire prospérer une ville. Pour ce faire, le joueur aura accès à un certain nombre d’éléments de gameplay ainsi qu’aux informations des différents quartiers. 
 
