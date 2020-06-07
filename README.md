@@ -1,8 +1,10 @@
 # Metroblocks
 
-- Action du joueur:
+Intro:
 
 Ce projet a pour objectif la création d’un jeu vidéo en 2D dont le but est de faire prospérer une ville. Pour ce faire, le joueur aura accès à un certain nombre d’éléments de gameplay ainsi qu’aux informations des différents quartiers. 
+
+- Action du joueur:
 
 La carte de jeu est en fait une grille de quartiers, lesquels peuvent chacun être de trois types différents (quartier d’affaire, quartier commercial et quartier de services publiques). Au début d’une partie la carte sera vierge de quartiers. Chaque quartier, qu’il soit résidentiel, commercial ou de services publics à le droit à la création d’une station de métro au sein de celui-ci, entraînant ainsi des coûts de construction. Si plusieurs stations sont créées dans différents quartiers le joueur aura la possibilité par la suite, si ses ressources financières le lui permettent, de relier ces stations par des lignes de Métro qui pourront desservir plusieurs quartiers. Pour gérer les différentes lignes de métro, le joueur aura la possibilité de créer une ligne de métro.
 
